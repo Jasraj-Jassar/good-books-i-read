@@ -13,7 +13,8 @@ Develop, manage, and deploy efficient machine learning applications with Python
 
 Credits: https://github.com/PacktPublishing/Building-Data-Science-Applications-with-FastAPI
 
-Right Now on Chapter 3
+Right Now on Chapter 4 - Managing Pydantic Data
+Models in FastAPI
 
 ---
 
