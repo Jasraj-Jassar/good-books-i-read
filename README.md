@@ -24,3 +24,12 @@ CS50x 2025 - Lecture 4 - Memory
 https://www.youtube.com/watch?v=kcRdFGbzR1I&t=166s
 
 ---
+
+## Python sample codes and textbook for robotics algorithms.
+
+https://github.com/AtsushiSakai/PythonRobotics.git
+
+<img width="665" height="446" alt="image" src="https://github.com/user-attachments/assets/ca4c1a98-0566-414f-a008-649ddfbe1404" />
+
+---
+
