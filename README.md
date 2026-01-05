@@ -30,13 +30,16 @@ https://www.youtube.com/watch?v=kcRdFGbzR1I&t=166s
 
 [https://github.com/AtsushiSakai/PythonRobotics.git]
 
-<img width="665" height="446" alt="image" src="https://github.com/user-attachments/assets/ca4c1a98-0566-414f-a008-649ddfbe1404" />
+<img width="280" alt="image" src="https://github.com/user-attachments/assets/ca4c1a98-0566-414f-a008-649ddfbe1404" />
 
 ---
 
 ## MIT 18.100B Real Analysis, Spring 2025
+
 Instructor: Tobias Holck Colding
+
 View the complete course: [https://ocw.mit.edu/courses/18-100b-r...]
+
 YouTube Playlist:    • MIT 18.100B Real Analysis, Spring 2025  
 
 ---
