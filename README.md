@@ -1,5 +1,4 @@
 # good-books-i-read 
-and other resources
 
 ### A curated log of books I have read and some other resources.
 
@@ -8,7 +7,7 @@ and other resources
 ## Building Data Science Applications with FastAPI
 By  François Voron 
                                 
-<img width="280" alt="image" src="https://github.com/user-attachments/assets/5fb35373-9547-4109-9313-022ecad287db" />
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/5fb35373-9547-4109-9313-022ecad287db" />
 
 Develop, manage, and deploy efficient machine learning applications with Python
 
@@ -30,7 +29,7 @@ https://www.youtube.com/watch?v=kcRdFGbzR1I&t=166s
 
 [https://github.com/AtsushiSakai/PythonRobotics.git]
 
-<img width="280" alt="image" src="https://github.com/user-attachments/assets/ca4c1a98-0566-414f-a008-649ddfbe1404" />
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/ca4c1a98-0566-414f-a008-649ddfbe1404" />
 
 ---
 
@@ -38,7 +37,7 @@ https://www.youtube.com/watch?v=kcRdFGbzR1I&t=166s
 
 Instructor: Tobias Holck Colding
 
-View the complete course: [https://ocw.mit.edu/courses/18-100b-r...]
+View the complete course: [(https://ocw.mit.edu/courses/18-100b-real-analysis-spring-2025/)](https://ocw.mit.edu/courses/18-100b-real-analysis-spring-2025/)
 
 YouTube Playlist:    • MIT 18.100B Real Analysis, Spring 2025  
 
