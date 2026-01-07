@@ -42,3 +42,14 @@ View the complete course: [(https://ocw.mit.edu/courses/18-100b-real-analysis-sp
 YouTube Playlist:    • MIT 18.100B Real Analysis, Spring 2025  
 
 ---
+
+## MIT 15.773 Hands-On Deep Learning Spring 2024
+
+Instructor: Rama Ramakrishnan
+
+View the complete course: [https://ocw.mit.edu/courses/15-773-ha...](https://youtu.be/kyQ0CRkYhy4?si=sffjasLSm6oKAZdu)
+
+YouTube Playlist:    • MIT 15.773 Hands-On Deep Learning Spring 2024  
+
+---
+
