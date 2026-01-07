@@ -2,7 +2,6 @@
 
 ### A curated log of books I have read and some other resources.
 
----
 
 ## Building Data Science Applications with FastAPI
 By  François Voron 
@@ -16,14 +15,12 @@ Credits: https://github.com/PacktPublishing/Building-Data-Science-Applications-w
 Right Now on Chapter 4 - Managing Pydantic Data
 Models in FastAPI
 
----
 
 ## Memory Lecture - CS50 (MIT)
 
 CS50x 2025 - Lecture 4 - Memory 
 https://www.youtube.com/watch?v=kcRdFGbzR1I&t=166s
 
----
 
 ## Python sample codes and textbook for robotics algorithms.
 
@@ -31,7 +28,6 @@ https://www.youtube.com/watch?v=kcRdFGbzR1I&t=166s
 
 <img width="220" alt="image" src="https://github.com/user-attachments/assets/ca4c1a98-0566-414f-a008-649ddfbe1404" />
 
----
 
 ## MIT 18.100B Real Analysis, Spring 2025
 
@@ -41,7 +37,6 @@ View the complete course: [(https://ocw.mit.edu/courses/18-100b-real-analysis-sp
 
 YouTube Playlist:    • MIT 18.100B Real Analysis, Spring 2025  
 
----
 
 ## MIT 15.773 Hands-On Deep Learning Spring 2024
 
@@ -51,5 +46,10 @@ View the complete course: [https://ocw.mit.edu/courses/15-773-ha...](https://you
 
 YouTube Playlist:    • MIT 15.773 Hands-On Deep Learning Spring 2024  
 
----
 
+## A STUDY IN SCARLET
+By A. Conan Doyle
+
+<img width="259" height="400" alt="image" src="https://github.com/user-attachments/assets/5fa460db-2bb4-4af3-aa18-948a37ebe12a" />
+
+[https://www.gutenberg.org/files/244/244-h/244-h.htm#link2HCH0001](https://www.gutenberg.org/files/244/244-h/244-h.htm#link2HCH0001)
