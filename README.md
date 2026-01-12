@@ -53,3 +53,13 @@ By A. Conan Doyle
 <img width="259" height="400" alt="image" src="https://github.com/user-attachments/assets/5fa460db-2bb4-4af3-aa18-948a37ebe12a" />
 
 [https://www.gutenberg.org/files/244/244-h/244-h.htm#link2HCH0001](https://www.gutenberg.org/files/244/244-h/244-h.htm#link2HCH0001)
+
+
+## MIT Godel Escher Bach Lecture
+
+<img width="658" height="1000" alt="image" src="https://github.com/user-attachments/assets/abf12087-3f64-41e5-b283-e414e03ae9bf" />
+
+(https://youtu.be/lWZ2Bz0tS-s?si=5lBhDQPvURJ0C31z)
+
+
+
