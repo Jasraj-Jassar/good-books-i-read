@@ -57,7 +57,9 @@ By A. Conan Doyle
 
 ## MIT Godel Escher Bach Lecture
 
-<img width="658" height="1000" alt="image" src="https://github.com/user-attachments/assets/abf12087-3f64-41e5-b283-e414e03ae9bf" />
+<img width="258" alt="image" src="https://github.com/user-attachments/assets/abf12087-3f64-41e5-b283-e414e03ae9bf" />
+
+YouTube Playlist:    • MIT Godel Escher Bach Lecture
 
 (https://youtu.be/lWZ2Bz0tS-s?si=5lBhDQPvURJ0C31z)
 
