@@ -15,6 +15,22 @@ Credits: https://github.com/PacktPublishing/Building-Data-Science-Applications-w
 Right Now on Chapter 4 - Managing Pydantic Data
 Models in FastAPI
 
+## A STUDY IN SCARLET
+By A. Conan Doyle
+
+<img width="259" height="400" alt="image" src="https://github.com/user-attachments/assets/5fa460db-2bb4-4af3-aa18-948a37ebe12a" />
+
+[https://www.gutenberg.org/files/244/244-h/244-h.htm#link2HCH0001](https://www.gutenberg.org/files/244/244-h/244-h.htm#link2HCH0001)
+
+
+## MIT Godel Escher Bach Lecture
+
+<img width="258" alt="image" src="https://github.com/user-attachments/assets/abf12087-3f64-41e5-b283-e414e03ae9bf" />
+
+YouTube Playlist:    • MIT Godel Escher Bach Lecture
+
+(https://youtu.be/lWZ2Bz0tS-s?si=5lBhDQPvURJ0C31z)
+
 
 ## Memory Lecture - CS50 (MIT)
 
@@ -45,23 +61,5 @@ Instructor: Rama Ramakrishnan
 View the complete course: [https://ocw.mit.edu/courses/15-773-ha...](https://youtu.be/kyQ0CRkYhy4?si=sffjasLSm6oKAZdu)
 
 YouTube Playlist:    • MIT 15.773 Hands-On Deep Learning Spring 2024  
-
-
-## A STUDY IN SCARLET
-By A. Conan Doyle
-
-<img width="259" height="400" alt="image" src="https://github.com/user-attachments/assets/5fa460db-2bb4-4af3-aa18-948a37ebe12a" />
-
-[https://www.gutenberg.org/files/244/244-h/244-h.htm#link2HCH0001](https://www.gutenberg.org/files/244/244-h/244-h.htm#link2HCH0001)
-
-
-## MIT Godel Escher Bach Lecture
-
-<img width="258" alt="image" src="https://github.com/user-attachments/assets/abf12087-3f64-41e5-b283-e414e03ae9bf" />
-
-YouTube Playlist:    • MIT Godel Escher Bach Lecture
-
-(https://youtu.be/lWZ2Bz0tS-s?si=5lBhDQPvURJ0C31z)
-
 
 
