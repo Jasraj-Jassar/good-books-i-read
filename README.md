@@ -41,6 +41,6 @@ YouTube Playlist: MIT 18.100B Real Analysis, Spring 2025
 YouTube Playlist: MIT 15.773 Hands-On Deep Learning Spring 2024
 
 ## CS 287: Advanced Robotics, Fall 2019 
-Dept of Electrical Engineering & Computer Sciences 
+**Dept of Electrical Engineering & Computer Sciences**
 **University of California at Berkeley**
 [Course](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)  
