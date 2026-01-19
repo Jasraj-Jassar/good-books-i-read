@@ -44,3 +44,6 @@ YouTube Playlist: MIT 15.773 Hands-On Deep Learning Spring 2024
 **Dept of Electrical Engineering & Computer Sciences**
 **University of California at Berkeley**
 [Course](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)  
+
+## Introduction to Robotics @ Princeton
+[Course](https://www.youtube.com/watch?v=e4jow5O3JT8&list=PLF8B1bJgOQK67xkgYz_Xtx0ShjcqfdXwE)  
