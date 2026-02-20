@@ -63,3 +63,9 @@ YouTube Playlist: MIT 15.773 Hands-On Deep Learning Spring 2024
 ![Status: Not Started](https://img.shields.io/badge/Status-Not%20Started-lightgrey)
 
 [Course](https://www.youtube.com/watch?v=e4jow5O3JT8&list=PLF8B1bJgOQK67xkgYz_Xtx0ShjcqfdXwE)  
+
+## Understanding Object Properties | CoppeliaSim (V-REP)
+![Status: Lecture 3](https://img.shields.io/badge/Status-Not%20Started-lightgrey)
+
+[Course](https://www.youtube.com/watch?v=PwGY8PxQOXY&list=PLjzuoBhdtaXOoqkJUqhYQletLLnJP8vjZ)
+
