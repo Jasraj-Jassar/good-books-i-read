@@ -69,3 +69,8 @@ YouTube Playlist: MIT 15.773 Hands-On Deep Learning Spring 2024
 
 [Course](https://www.youtube.com/watch?v=PwGY8PxQOXY&list=PLjzuoBhdtaXOoqkJUqhYQletLLnJP8vjZ)
 
+### Programmable Logic Controllers
+
+#### Frank D. Petruzella
+
+<img width="1000" height="1278" alt="image" src="https://github.com/user-attachments/assets/e92449be-87be-44ae-85a3-afc2c362c598" />
